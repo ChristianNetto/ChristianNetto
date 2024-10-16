@@ -8,8 +8,6 @@
 
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianNetto&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianNetto)]()
-
 ## Tecnologias que uso no meu dia a dia
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
